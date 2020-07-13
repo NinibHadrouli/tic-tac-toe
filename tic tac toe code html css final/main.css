@@ -1,0 +1,37 @@
+body{
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.allSquers{
+  text-align: center;
+  font-size: 60px;
+  color: white;
+}
+  h1 {
+    text-align: center;
+  }
+  h2 {
+    text-align: center;
+    color: green;
+    font-size: 60px;
+  }
+  td {
+    width: 100px;
+    height: 100px;
+  }
+  table {
+    margin: 5px auto;
+  }
+  .vert {
+    border-left: 2px solid black;
+    border-right: 2px solid black;
+  }
+  .hori {
+    border-top: 2px solid black;
+    border-bottom: 2px solid black;
+  }
+  
+  
+ 
+  
+  
